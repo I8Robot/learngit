@@ -1,3 +1,6 @@
 [submodule "hello-world"]
 	path = hello-world
 	url = git@github.com:I8Robot/hello-world
+[submodule "gitskills"]
+	path = gitskills
+	url = git@github.com:I8Robot/gitskills.git
